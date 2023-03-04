@@ -7,7 +7,7 @@ And the Currency Work is Powered by our favourite BlockChain Chrome 😍 Extensi
 
 Guys You can Put your Feedback 👌 to me on this Project 🛠️ on Github 🐈‍⬛
 
-Live Preview of this Website: <button>https://uniswap-blockchain-rexnoah-byuu9ierb-reyansh-kumar-programmer.vercel.app/</button>
+Live Preview of this Website: <button>https://uniswap-blockchain-rexnoah.vercel.app</button>
 
 Thank You for Looking On this Project 🙏
 
