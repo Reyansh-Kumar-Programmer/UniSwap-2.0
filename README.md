@@ -9,6 +9,6 @@ Guys You can Put your Feedback 👌 to me on this Project 🛠️ on Github 🐈
 
 Live Preview of this Website 🌏: <button>https://uniswap-blockchain-rexnoah.vercel.app</button>
 
-Thank You for Looking On this Project 🙏
+Thank You for Looking On this Project 👀🙏
 
 ![Uniswap](https://user-images.githubusercontent.com/109780452/222709558-ba2989c6-a493-4282-99a2-5301d78f1fee.jpg)
